@@ -1,0 +1,236 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+#First{
+    width: 1440px;
+    height: 596px;
+    background-color: #884f9d;
+}
+#Second{
+    width: 1440px;
+    height: 747px;
+    background-color: #0fc3a5;
+    margin-top:-50px;
+}
+#Third{
+    width: 1440px;
+    height: 916px;
+    background-color: #e8f1f8;
+}
+#Fouth{
+    width: 1440px;
+    height: 657px;
+    background-color: #ffffff;
+}
+#Fifth{
+    width:1440px;
+    height: 1424px;
+    background-color: #ffde9a;
+}
+#Sixth{
+    width: 1440px;
+    height: 892px;
+    background-color: #d84481;
+}
+.cuda{
+    margin-left:200px;
+    margin-top:49px;
+}
+nav{
+    margin-left: 700px;
+    margin-top: -45px;
+}
+.home,.about,.work,.blog,.contact{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
+}
+.home:hover{
+    background-color: #000000;
+}
+.about:hover{
+    background-color: #000000;
+}
+.work:hover{
+    background-color: #000000;
+}
+.blog:hover{
+    background-color: #000000;
+}
+.contact:hover{
+    background-color: #000000;
+}
+.hi{
+    text-align:center;
+    color: #ffffff;
+    margin-top: 150px;
+    font-size: 30px;
+}
+.working{
+    margin-left: 600px;
+    width:298px;
+    height: 68px;
+    background-color: #ec7e4a;
+    color: #ffffff;
+    border: 10px;
+}
+.working:active{
+    background-color: #0fc3a5;
+}
+.services{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.individuals{
+    color:#ffffff;
+    margin-left: 520px;
+}
+.flag{
+    margin-left: 300px;
+}
+.amet{
+    margin-left: 300px;
+    color: #ffffff;
+}
+.pen{
+    margin-top: -330px;
+    padding-left: 580px;
+}
+.perspiciatis{
+    color: #ffffff;
+}
+.development{
+    padding-left: 810px;
+    margin-top: -320px;
+}
+.accusamus{
+    color :#ffffff;
+}
+.Rocket{
+    padding-left: 1100px;
+    margin-top: -340px;
+}
+.Anne{
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.All{
+    width: 88px;
+    height: 38px;
+    margin-left: 500px;
+    margin-top: 50px;
+    background-color: #ffffff;
+    border: 5px;
+}
+.WEB{
+    width: 88px;
+    height: 38px;
+    margin-left:30px;
+    background-color: #000000;
+    color: #333232;
+    border: 5px;
+}
+.APPS{
+    width: 88px;
+    height: 38px;
+    margin-left: 30px;
+    background-color: #000000;
+    color: #333232;
+}
+.ICONS{
+    width: 88px;
+    height: 38px;
+    margin-left: 50px;
+    background-color: #000000;
+    color: #333232;
+}
+.WEB:hover{
+    background-color: #ffffff;
+}
+.APPS:hover{
+    background-color: #ffffff;
+}
+.ICONS:hover{
+    background-color: #ffffff;
+}
+.Load{
+    width:295px;
+    height: 73px;
+    background-color: #0fc3a5;
+    color: #ffffff;
+    border: 5px;
+}
+.Load:active{
+    background-color: #d84481;
+}
+#Seventh{
+    width: 1440px;
+    height: 817px;
+    background-color: #39539a;
+}
+small{
+    color: #ffffff;
+    margin-left: 360px;
+}
+.Name{
+    width: 412px;
+    height: 54px;
+    background-color: #223772;
+    border: 5px;
+    margin-top:300px;
+}
+.email{
+    width: 412px;
+    height: 54px;
+    background-color: #223772;
+    margin-left:650px;
+    border:5px;
+}
+textarea{
+    margin-left:200px;
+    margin-top:100px;
+    width: 859px;
+    height: 197px;
+    background-color: #223772;
+    border: 5px;
+    color: #ffffff;
+    font-size: 20px;
+}
+footer{
+    width: 1440px;
+    height: 108px;
+    background-color: #314a8f;
+}
+.Facebook,.Twitter,.Google,.Linkedln,.Behance,.Dribbble,.Git{
+    text-decoration: none;
+    font-size:25px;
+    color: #ffffff;
+}
+.Facebook:hover{
+    color: #0fc3a5;
+    cursor: progress;
+}
+.Twitter:hover{
+    color: #0fc3a5;
+    cursor: progress;
+}
+.Google:hover{
+    color: #0fc3a5;
+    cursor: progress;
+}
+.Linkedln:hover{
+    color: #0fc3a5;
+    cursor: progress;
+}
+.Behance:hover{
+    color: #0fc3a5;
+    cursor:progress;
+}
+.Dribbble:hover{
+    color: #0fc3a5;
+    cursor:progress;
+}
+.Git:hover{
+    color: #0fc3a5;
+    cursor:progress;
+}
